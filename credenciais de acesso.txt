@@ -1,0 +1,3 @@
+acesso administrados -> Usuário: admin@amdin ; Senha:admin
+
+acesso cliente -> Usuário: gustavo@email.com ; Senha:123
